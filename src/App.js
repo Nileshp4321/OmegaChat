@@ -6,6 +6,7 @@ function App() {
     <div>
     <h1 className='text-center text-secondary chatbox'>OmegaChat </h1>
     <ChatWindow />
+    dfsdklmf
   </div>
   );
 }
